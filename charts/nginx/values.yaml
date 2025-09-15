@@ -1,0 +1,5 @@
+replicas: 1
+image:
+  name: nginx
+  tag: latest
+port: 80
