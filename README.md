@@ -1,6 +1,6 @@
 # Helm Charts
 
-A collection of Helm charts for Kubernetes deployments.
+A collection of Helm charts for Kubernetes deployments
 
 ## Charts
 
