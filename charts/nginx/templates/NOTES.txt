@@ -1,1 +1,1 @@
-nginx chart test
+nginx chart
